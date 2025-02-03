@@ -907,3 +907,33 @@ A2 স্তরের এই পাঠ্যক্রমটি শিক্ষ�
 | **Sembrare**        | মনে হওয়া                 | **Avere bisogno**   | প্রয়োজন থাকা            |
 | **Progettare**      | পরিকল্পনা করা            | **Realizzare**      | বাস্তবায়ন করা           |
 
+# VERBO CONGUGATION
+# Most Used Italian Verbs with Conjugations and Bangla Meanings
+
+| **Italian Verb**    | **Conjugation (Present Tense)**                                   | **Bangla Meaning**   | **Example in Italian**                                   |
+|---------------------|-------------------------------------------------------------------|----------------------|----------------------------------------------------------|
+| **Essere**          | io sono, tu sei, lui/lei è, noi siamo, voi siete, loro sono      | হওয়া                | Io sono felice. (আমি খুশি)                              |
+| **Avere**           | io ho, tu hai, lui/lei ha, noi abbiamo, voi avete, loro hanno    | থাকা                 | Lui ha una macchina. (তার একটি গাড়ি আছে)               |
+| **Fare**            | io faccio, tu fai, lui/lei fa, noi facciamo, voi fate, loro fanno | করা                  | Noi facciamo colazione. (আমরা প্রাতঃরাশ করছি)           |
+| **Andare**          | io vado, tu vai, lui/lei va, noi andiamo, voi andate, loro vanno  | যাওয়া                | Vado al lavoro. (আমি কাজে যাচ্ছি)                       |
+| **Venire**          | io vengo, tu vieni, lui/lei viene, noi veniamo, voi venite, loro vengono | আসা            | Vengo a casa tua. (আমি তোমার বাড়িতে আসছি)              |
+| **Vedere**          | io vedo, tu vedi, lui/lei vede, noi vediamo, voi vedete, loro vedono | দেখা                 | Vedo un film. (আমি একটি সিনেমা দেখছি)                    |
+| **Mangiare**        | io mangio, tu mangi, lui/lei mangia, noi mangiamo, voi mangiate, loro mangiano | খাওয়া             | Mangio una pizza. (আমি একটি পিৎজা খাচ্ছি)              |
+| **Bere**            | io bevo, tu bevi, lui/lei beve, noi beviamo, voi bevete, loro bevono | পান করা              | Bevo acqua. (আমি পানি পান করছি)                         |
+| **Capire**          | io capisco, tu capisci, lui/lei capisce, noi capiamo, voi capite, loro capiscono | বোঝা             | Capisco l'italiano. (আমি ইতালীয় ভাষা বুঝি)             |
+| **Parlare**         | io parlo, tu parli, lui/lei parla, noi parliamo, voi parlate, loro parlano | বলা               | Parliamo di politica. (আমরা রাজনীতি নিয়ে কথা বলছি)     |
+| **Dormire**         | io dormo, tu dormi, lui/lei dorme, noi dormiamo, voi dormite, loro dormono | ঘুমানো             | Dormo molto. (আমি অনেক ঘুমাই)                           |
+| **Lavorare**        | io lavoro, tu lavori, lui/lei lavora, noi lavoriamo, voi lavorate, loro lavorano | কাজ করা          | Lavoro in un'azienda. (আমি একটি কোম্পানিতে কাজ করি)     |
+| **Cominciare**      | io comincio, tu cominci, lui/lei comincia, noi cominciamo, voi cominciate, loro cominciano | শুরু করা           | Comincio a studiare. (আমি পড়া শুরু করছি)               |
+| **Finire**          | io finisco, tu finisci, lui/lei finisce, noi finiamo, voi finite, loro finiscono | শেষ করা            | Finisco il libro. (আমি বইটি শেষ করছি)                   |
+| **Scegliere**       | io scelgo, tu scegli, lui/lei sceglie, noi scegliamo, voi scegliete, loro scelgono | নির্বাচন করা      | Scelgo questa opzione. (আমি এই অপশনটি বেছে নিচ্ছি)       |
+| **Dare**            | io do, tu dai, lui/lei dà, noi diamo, voi date, loro danno        | দেওয়া                | Do un regalo. (আমি একটি উপহার দিচ্ছি)                  |
+| **Prendere**        | io prendo, tu prendi, lui/lei prende, noi prendiamo, voi prendete, loro prendono | নেওয়া           | Prendo un taxi. (আমি একটি ট্যাক্সি নিচ্ছি)               |
+| **Trovare**         | io trovo, tu trovi, lui/lei trova, noi troviamo, voi trovate, loro trovano | খুঁজে পাওয়া         | Trovo le chiavi. (আমি চাবি খুঁজে পাচ্ছি)               |
+| **Vivere**          | io vivo, tu vivi, lui/lei vive, noi viviamo, voi vivete, loro vivono | বাঁচা                | Vivo a Roma. (আমি রোমে বাস করি)                         |
+| **Uscire**          | io esco, tu esci, lui/lei esce, noi usciamo, voi uscite, loro escono | বের হওয়া            | Esco con gli amici. (আমি বন্ধুদের সঙ্গে বের হচ্ছি)       |
+| **Mettere**         | io metto, tu metti, lui/lei mette, noi mettiamo, voi mettete, loro mettono | রাখা                | Metto la chiave sul tavolo. (আমি চাবি টেবিলে রাখছি)      |
+| **Arrivare**        | io arrivo, tu arrivi, lui/lei arriva, noi arriviamo, voi arrivate, loro arrivano | আসা                | Arrivo alle sei. (আমি ছয়ে পৌঁছাই)                      |
+| **Sentire**         | io sento, tu senti, lui/lei sente, noi sentiamo, voi sentite, loro sentono | শোনা                | Sento la musica. (আমি সঙ্গীত শোনাচ্ছি)                   |
+| **Sperare**         | io spero, tu speri, lui/lei spera, noi speriamo, voi sperate, loro sperano | আশা করা             | Spero di vincere. (আমি জেতার আশা করছি)                  |
+
